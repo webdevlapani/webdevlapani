@@ -23,15 +23,24 @@
 
 <div>
  
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/storybook-ff528c?style=for-the-badge&logo=storybook&logoColor=white)
+![](https://img.shields.io/badge/mui-027ffe?style=for-the-badge&logo=mui&logoColor=white)
+![](https://img.shields.io/badge/antd-3178C6?style=for-the-badge&logo=antd&logoColor=white)
+![](https://img.shields.io/badge/reactstrap-3178C6?style=for-the-badge&logo=react-strap&logoColor=white)
+![](https://img.shields.io/badge/tailwindcss-38bdf9?style=for-the-badge&logo=tailwindcss&logoColor=white)
  
 </div>
+   
+   
 <b>I have extensive experience in creating custom component libraries that align with a client's unique system design. By offering guidance throughout the development process, I can help clients save a significant amount of money while also accelerating the pace of development.</b>
 </br>
 </div>
 
-  
+  <div>
+<h1>Other Skills </h1>
+   <p>React Hook Form, React Query, Moment, NX, Micro Frontend,  </p>
+
+</div>
 
 <Br>
 <h1 >Get in Touch! 📬</h1>
