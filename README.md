@@ -18,6 +18,4 @@
         <img src="https://github-readme-stats.vercel.app/api?username=webdevlapani&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
        
-
-    </div>
     
