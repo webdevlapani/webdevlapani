@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhag Lapani</h1>
-<h3 align="center">Senior Expert React Developer</h3>
+<h3 align="center">Senior Expert ReactJS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevlapani&label=Profile%20views&color=0e75b6&style=flat" alt="webdevlapani" /> </p>
 
