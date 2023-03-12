@@ -1,7 +1,10 @@
 <h1>Hi 👋, I'm Suhag Lapani &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 <a align="left" href="mailto:ilapani888@gmail.com" target="blank">
    <img align="center" src="https://img.shields.io/badge/ilapani888@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp; </h1>
 
-<h3>Senior Expert Frontend React Developer / Project Consultant / Project Architecture</h3>
+<h3>Senior Expert Frontend React Developer | Project Consultant | Project Architecture</h3>
+<p>🥇 9+ years of experience as a JavaScript, React, Redux, typescript, ReactJs hooks, MUI, Antd and Apollo client</p>
+ <p> 🤝 good communicational and planning skills</p>
+<p> ❤️ JavaScript & TypeScript Lover </p>
 
 <div>
 <h1>My Skills ❤️</h1>
